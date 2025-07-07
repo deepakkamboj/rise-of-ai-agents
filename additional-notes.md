@@ -39,7 +39,7 @@
 
 ---
 
-## 🎯 Slide 2: Difference Between Generative AI and Agentic AI
+## 🎯Difference Between Generative AI and Agentic AI
 
 ### 🧠 What is Generative AI?
 _Generative AI focuses on producing content such as text, images, or code based on patterns learned from data. It’s reactive and works based on single prompts._
